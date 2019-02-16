@@ -1,4 +1,4 @@
-# Dataset_investigation_from_Gapminder_World: Growth in Communication Technologies in different countries of the world from 2007-2016 and comparison with per capita income.
+# Dataset investigation from Gapminder World: Growth in Communication Technologies in different countries of the world from 2007-2016 and comparison with per capita income.
 
 This project was completed as part of the course requirements for Data Analyst Nanodegree with Udacity.
 
