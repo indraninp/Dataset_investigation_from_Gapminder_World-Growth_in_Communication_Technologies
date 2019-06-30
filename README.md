@@ -27,7 +27,7 @@ Category: Economy, Sub Category: Incomes & Growth, Dataset:
 
                            4. Income per person (GDP/capita, PPP inflation-adjusted)
 
-These data is then cleaned, wrangled and then Exploratory Data Analysis is performed using python and its libraries numpy and pandas. We have investigated trends in the growth in use of different communication technologies (broadband, cell phones and internet) in all countries of the world. The countries have been segmented into different categories Group1 - Group 5 based on their per-capita income, with Group 1 countries having the highest per-capita income and Group 5 the lowest. . We then nvestigated trends in the growth in use of different communication technologies between 2007-2016 the relation with the country’s per capita income. Presented findings with relevant statistics and visualizations usin the matplotlib library.
+These data is then cleaned, wrangled and then Exploratory Data Analysis is performed using python and its libraries numpy and pandas. We have investigated trends in the growth in use of different communication technologies (broadband, cell phones and internet) in all countries of the world. The countries have been segmented into different categories Group1 - Group 5 based on their per-capita income, with Group 1 countries having the highest per-capita income and Group 5 the lowest. . We then investigated trends in the growth in use of different communication technologies between 2007-2016 the relation with the country’s per capita income. Presented findings with relevant statistics and visualizations using the matplotlib library.
 
 # Technologies Used
 
